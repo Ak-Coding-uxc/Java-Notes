@@ -1,3 +1,12 @@
+/*
+This is about Inheritance in java
+Different types of Inheritance used in java :- 
+1. Single level Inheritance
+2. Multilevel Inheritance
+3. Hybrid Inheritance
+4. Hierarchical Inheritance
+*/
+
 // 1. Single level Inheritence
 class Shape {
     public void area(){
